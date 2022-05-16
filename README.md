@@ -17,5 +17,7 @@ It also requires:
 * torchvision, tqdm, skimage, subprocess, numpy, h5py, scipy, tkinter, opencv, Pillow
 
 you should change options.py to suit your device and path before runing the code
+
 FaceLandmarkDetection.py will perform landmark detection, shuffle, and split operations on the input dataset into training, validation, and test files.
+
 main.py will do the training, GUI.py and ReadAndCreate.py are the programs that put the model into practical use
