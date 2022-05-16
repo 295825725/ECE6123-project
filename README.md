@@ -8,11 +8,14 @@ trained model url:
 
 put the model file in model_result_full folder
 
-change options.py to suit your device and path
+
 
 the model is running under python3.9, pytorch 1.11.0  with cuda11.3 cudnn8.0. 
 It also requires:
 * [softrenderer](https://github.com/ShichenLiu/SoftRas) (try to install this first)
 * [Face Alignment](https://github.com/1adrianb/face-alignment)
 * torchvision, tqdm, skimage, subprocess, numpy, h5py, scipy, tkinter, opencv, Pillow
-* 
+
+you should change options.py to suit your device and path before runing the code
+FaceLandmarkDetection.py will perform landmark detection, shuffle, and split operations on the input dataset into training, validation, and test files.
+main.py will do the training, GUI.py and ReadAndCreate.py are the programs that put the model into practical use
