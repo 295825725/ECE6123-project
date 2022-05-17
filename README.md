@@ -1,4 +1,5 @@
 # ECE6123-project
+![result_example](https://user-images.githubusercontent.com/42291628/168714344-9aabfa2d-8022-457d-8f6e-157b7895749d.png)
 
 BFM folder download url:https://drive.google.com/file/d/1WisaLaSeFqxbJ7l85CtH9cX4XkR2eAPq/view?usp=sharing
 
