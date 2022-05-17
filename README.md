@@ -12,8 +12,8 @@ https://drive.google.com/file/d/12vztGaSryc0l4Q2AuJO_HhYZTPVMjeHV/view?usp=shari
 https://drive.google.com/file/d/1AQ01MSx4CSy63REYXWQLIpLv3Jklamf5/view?usp=sharing
 
 put the model file in model_result_full folder
-![v2](https://user-images.githubusercontent.com/42291628/168712058-aba14068-3821-4c41-823d-1749de02e7fd.png)
 
+![v2](https://user-images.githubusercontent.com/42291628/168712058-aba14068-3821-4c41-823d-1749de02e7fd.png)
 
 
 the model is running under python3.9, pytorch 1.11.0  with cuda11.3 cudnn8.0. 
