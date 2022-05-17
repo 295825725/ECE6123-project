@@ -7,8 +7,9 @@ CACD2000 dataset url:https://drive.google.com/file/d/1hYIZadxcPG27Fo7mQln0Ey7uqw
 data folder download url:https://drive.google.com/file/d/1QqjN10eX2yOF4e7nnt_0waVmOCktxH19/view?usp=sharing
 
 
-trained model url:https://drive.google.com/file/d/12vztGaSryc0l4Q2AuJO_HhYZTPVMjeHV/view?usp=sharing
-                  https://drive.google.com/file/d/1AQ01MSx4CSy63REYXWQLIpLv3Jklamf5/view?usp=sharing
+trained model url:
+https://drive.google.com/file/d/12vztGaSryc0l4Q2AuJO_HhYZTPVMjeHV/view?usp=sharing
+https://drive.google.com/file/d/1AQ01MSx4CSy63REYXWQLIpLv3Jklamf5/view?usp=sharing
 
 put the model file in model_result_full folder
 
