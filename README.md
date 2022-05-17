@@ -12,7 +12,7 @@ https://drive.google.com/file/d/12vztGaSryc0l4Q2AuJO_HhYZTPVMjeHV/view?usp=shari
 https://drive.google.com/file/d/1AQ01MSx4CSy63REYXWQLIpLv3Jklamf5/view?usp=sharing
 
 put the model file in model_result_full folder
-![v1](https://user-images.githubusercontent.com/42291628/168712034-9fcc0a96-edab-45d6-bbbc-e24aaf545ee8.png)
+![v2](https://user-images.githubusercontent.com/42291628/168712058-aba14068-3821-4c41-823d-1749de02e7fd.png)
 
 
 
